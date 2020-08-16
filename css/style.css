@@ -30,4 +30,5 @@ font-size: x-large;
 }
 h4 {
     font-size: xx-large;
+    text-size-adjust: 100px;
 }
