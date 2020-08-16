@@ -17,3 +17,9 @@ nav {
     text-align: center;
     height: 50px;
 }
+nav a {
+    text-decoration-line: none;
+    font-size-adjust: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
