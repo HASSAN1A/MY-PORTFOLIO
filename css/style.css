@@ -3,5 +3,11 @@ p {
     
 }
 a {
-    border: 1px solid teal;
+    border: 1px solid teal; 
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
 }
