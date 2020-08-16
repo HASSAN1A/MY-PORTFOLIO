@@ -28,11 +28,13 @@ p {
 font-size: x-large;
 
 }
-h4 {
-    font-size: xx-large;
-    text-size-adjust: 100px;
+h2 {
+    background-color: rgb(104, 196, 0);
 }
-h5 {
-    background-color: rgb(226, 86, 43);
-    text-align: center;
+h3 {
+    background-color: cyan;
+
+
 }
+
+
