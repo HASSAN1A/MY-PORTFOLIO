@@ -63,5 +63,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
 
-[MIT] © [Hassan Juma ](https://github.com/HASSAN1A)
+[MIT] © (Hassan Juma)(https://github.com/HASSAN1A)
 
