@@ -1,4 +1,4 @@
-# ![test-answers](https://HASSAN1A.github.io/)
+# ![test-answers](https://HASSAN1A.github.io/)(ima)
 # test-answers
 <table>
 <tr>
@@ -44,14 +44,14 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/HASSAN1A/WebApp/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/HASSAN1A/test-answers/issues/new) by including your search query and the expected result.
 har
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/HASSAN1A//issues/newtest-answers). Please include sample queries and their corresponding results.
 
 
 ## Built with
--html
--css
+-html (https://www.w3schools.com/html/default.asp)
+-css (https://www.w3schools.com/css/css_colors.asp)
 
 
 ## To-do
@@ -63,6 +63,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
 
-[MIT] (https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
+[MIT](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
 
 © [Hassan Juma](https://github.com/HASSAN1A)
