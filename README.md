@@ -1,4 +1,4 @@
-# ![test-answers](https://HASSAN1A.github.io/)(ima)
+# ![test-answers](images/juma1.jpg)
 # test-answers
 <table>
 <tr>
@@ -50,8 +50,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Built with
--html (https://www.w3schools.com/html/default.asp)
--css (https://www.w3schools.com/css/css_colors.asp)
+html (https://www.w3schools.com/html/default.asp)
+
+css (https://www.w3schools.com/css/css_colors.asp)
 
 
 ## To-do
@@ -63,6 +64,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
 
-[MIT](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md)
+[MIT](https://github.com/HASSAN1A/test-answers/blob/master/LICENSE.md) © [Hassan Juma](https://github.com/HASSAN1A)
 
-© [Hassan Juma](https://github.com/HASSAN1A)
